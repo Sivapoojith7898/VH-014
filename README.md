@@ -18,8 +18,11 @@ We developed a computer vision model that can identify the road sign and instruc
 - Find the Significance of the Road Sign
 - Speak it Out to the Driver
 ## Techstacks Used 
-`Computer Vision`
+`Computer Vision` `pyttsx3` `tensorflow` 
 ## How to run locally
+```
+helloooo
+```
 # What's next?
 ## Declaration
 We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.
