@@ -1,7 +1,7 @@
 # Road Sign Detection and Instruction
 Understanding Road Signs Made Easy
 ## Team Details
-> Team number: VH014
+`Team number:` VH014
 
 | Name            | Email                 |
 | -------------   | -------------         |
@@ -18,6 +18,7 @@ We developed a computer vision model that can identify the road sign and instruc
 - Find the Significance of the Road Sign
 - Speak it Out to the Driver
 ## Techstacks Used 
+`Computer Vision`
 ## How to run locally
 # What's next?
 ## Declaration
