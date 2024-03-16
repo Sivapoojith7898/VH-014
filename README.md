@@ -1,12 +1,17 @@
-# Road Sign Detection and Instruction
-Understanding Road Signs Made Easy
+<h1 align="center" style="border-bottom: none">
+    <b>
+        <a href="https://www.google.com"> Road Sign Detection and Instruction </a><br>
+    </b>
+    ⭐️Understanding Road Signs Made Easy⭐️ <br>
+</h1>
+
 ## Team Details
 `Team number:` VH014
 
 | Name            | Email                 |
 | -------------   | -------------         |
 | S. Sai Yeswanth | 9921004975@klu.ac.in  |
-| Sivapoojith B   | 9921004975@klu.ac.in  |
+| Sivapoojith B   | 9921004677@klu.ac.in  |
 | Srinivas R      | 9921004689@klu.ac.in  |
 | Sri Balaji K    | 9921004685@klu.ac.in  |
 
