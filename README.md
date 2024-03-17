@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/Sivapoojith7898/VH-014/main/Images/09005.jpg" alt="Image 3" style="width: 30%; margin: 5px;">
     <img src="https://raw.githubusercontent.com/Sivapoojith7898/VH-014/main/Images/43006.jpg" alt="Image 3" style="width: 30%; margin: 5px;">
     <img src="https://raw.githubusercontent.com/Sivapoojith7898/VH-014/main/Images/56001.jpg" alt="Image 3" style="width: 30%; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/Sivapoojith7898/VH-014/main/Images/56001.jpg" alt="Image 3" style="width: 30%; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/Sivapoojith7898/VH-014/main/Images/83003.jpg" alt="Image 3" style="width: 30%; margin: 5px;">
 </div>
 
 ## Problem Statement
