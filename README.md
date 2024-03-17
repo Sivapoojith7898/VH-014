@@ -30,7 +30,9 @@
 There are more than 100 road signs and all of them have there own significance. Even though all of these road signs are not encoutered in the daily life these should be understood by the driver. Despite having seen them in many occasions several drivers fail to notice or recognise few signs. This might result in dangerous driving conditions and create a bad environment for travellers that use the road.
 
 ## About the project
-We developed a Deep Learning model that can identify the road sign and instruct the driver to act accordingly. The Steps Follow:
+We developed a Deep Learning model that can identify the road sign and instruct the driver to act accordingly. The driver will be more conscious and can act accordingly creating a safer environment.
+
+## Technical Implementation
 - Identify the Road Sign
 - Find the Significance of the Road Sign
 - Speak it Out to the Driver
